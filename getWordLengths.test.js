@@ -1,4 +1,4 @@
-const getWordLengths = require("./getWordLengths");
+const getWordLengths = require("./get-word-lengths");
 
 test("Get word lengths", function() {
   const words = ["sun", "potato", "roundabout", "pizza"];

@@ -1,6 +1,6 @@
 const addOne = function(numbers) {
         // Schrijf hier de functie...
-     return array.forEach ( (number)=>{ number + 1
+     return numbers.map ( (number)=>{ number + 1
 
         }
         
@@ -8,4 +8,4 @@ const addOne = function(numbers) {
 
 
 
-module.exports = add-one.js;
+module.exports = addOne;

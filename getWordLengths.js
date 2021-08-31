@@ -1,5 +1,6 @@
 const getWordLengths = function(someWords) {
-  return array = someWords.length 
+   
+  return someWords.map(word => word.length)
 
 
 };
